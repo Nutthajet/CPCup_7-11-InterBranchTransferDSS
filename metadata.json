@@ -1,0 +1,5 @@
+{
+  "name": "7-Eleven Inter-Branch Transfer DSS",
+  "description": "A web-based dashboard simulating a Decision Support System for optimizing product transfers between 7-Eleven branches to reduce waste and maximize profit.",
+  "requestFramePermissions": []
+}
